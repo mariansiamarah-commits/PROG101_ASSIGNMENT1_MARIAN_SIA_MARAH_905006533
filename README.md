@@ -201,6 +201,11 @@ END
 
 <img width="2159" height="8192" alt="Untitled diagram-2026-11-04-144136" src="https://github.com/user-attachments/assets/bac34301-825d-4d02-bc9c-416dd5e7b508" />
 
+## SCREENSHOTS
+
+<img width="1272" height="936" alt="image" src="https://github.com/user-attachments/assets/f4c6ab3d-0d38-4de3-a27d-b767599de298" />
+
+
 ## AUTHOR
 -MARIAN SIA MARAH-905006533
 
