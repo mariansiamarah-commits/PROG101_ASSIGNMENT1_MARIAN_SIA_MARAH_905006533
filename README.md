@@ -207,6 +207,8 @@ END
 
 <img width="1171" height="787" alt="image" src="https://github.com/user-attachments/assets/306919c6-d4bd-4a79-951a-2b971bb0f16c" />
 
+<img width="1871" height="862" alt="image" src="https://github.com/user-attachments/assets/da705661-ef0a-432e-ad7d-ea626774cb81" />
+
 
 ## AUTHOR
 -MARIAN SIA MARAH-905006533
