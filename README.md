@@ -201,14 +201,6 @@ END
 
 <img width="2159" height="8192" alt="Untitled diagram-2026-11-04-144136" src="https://github.com/user-attachments/assets/bac34301-825d-4d02-bc9c-416dd5e7b508" />
 
-## SCREENSHOTS
-
-<img width="1272" height="936" alt="image" src="https://github.com/user-attachments/assets/f4c6ab3d-0d38-4de3-a27d-b767599de298" />
-
-<img width="1171" height="787" alt="image" src="https://github.com/user-attachments/assets/306919c6-d4bd-4a79-951a-2b971bb0f16c" />
-
-<img width="1871" height="862" alt="image" src="https://github.com/user-attachments/assets/da705661-ef0a-432e-ad7d-ea626774cb81" />
-
 
 ## AUTHOR
 -MARIAN SIA MARAH-905006533
